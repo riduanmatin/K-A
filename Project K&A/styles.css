@@ -1,0 +1,197 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-image: url(assets/landing-page-bg.jpeg);
+    height: 100vh;
+    background-size: cover;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 3vh;
+    background-color: white;
+    align-items: center;
+}
+
+.navbar-left > img{
+    height: 55px;
+    width: 75px;
+}
+
+.navbar-right{
+    display: flex;
+    justify-content: space-between;
+    width: 10vw;
+}
+
+.navbar-right > a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: large;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    margin-top: 28vh;
+    color: white;
+    font-size: 80px;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.content-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.cb-content-1{
+    margin-inline: 3vw;
+}
+
+.cb-content-1 > button{
+    width: 270px;
+    background-color: black;
+    color: white;
+    padding: 1vh;
+}
+
+.cbc-img-1{
+    width: 270px;
+    height: 350px;
+    background-image: url(assets/product-1.jpg);
+    background-size: cover;
+}
+
+.cbc-img-1:hover{
+    background-image: url(assets/product-1-hover.jpg);
+    background-size: cover;
+}
+
+.cb-content-2{
+    margin-inline: 3vw;
+}
+
+.cb-content-2 > button{
+    width: 270px;
+    background-color: black;
+    color: white;
+    padding: 1vh;
+}
+
+.cbc-img-2{
+    width: 270px;
+    height: 350px;
+    background-image: url(assets/product-2.jpg);
+    background-size: cover;
+}
+
+.cbc-img-2:hover{
+    background-image: url(assets/product-2-hover.jpg);
+    background-size: cover;
+}
+
+.cb-content-3{
+    margin-inline: 3vw;
+}
+
+.cb-content-3 > button{
+    width: 270px;
+    background-color: black;
+    color: white;
+    padding: 1vh;
+}
+
+.cbc-img-3{
+    width: 270px;
+    height: 350px;
+    background-image: url(assets/product-3.jpg);
+    background-size: cover;
+}
+
+.cbc-img-3:hover{
+    background-image: url(assets/product-3-hover.jpg);
+    background-size: cover;
+}
+
+.sub-title{
+    font-size: large;
+}
+
+.text{
+    font-size: xx-large;
+    padding-inline: 18vw;
+}
+
+.content-box-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.cb-content{
+    margin-inline: 3vw;
+}
+
+.cb-content > img{
+    width: 270px;
+    height: 270px;
+}
+
+.see-more{
+    margin: 5vh;
+}
+
+.see-more > button{
+    width: 13vw;
+    padding: 2vh;
+    background-color: black;
+    color: white;
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: black;
+    padding: 3vh;
+    align-items: center;
+}
+
+.footer > h3{
+    color: white;
+    font-size: x-large;
+    margin-right: 1vw;
+}
+
+.footer > a > img{
+    width: 50px;
+    height: 40px;
+    margin-inline: 1vw;
+}
+
+.form{
+    margin-inline: 30vw;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5vh;
+}
+
+.form > button{
+    background-color: black;
+    color: white;
+    padding: 1vh;
+}
+

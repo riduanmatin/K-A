@@ -1,0 +1,19 @@
+landing-bg :
+https://hmgroup.com/content/dam/hmgroup/groupsite/images/hero/2019/hero%20wall%20pics.jpg/_jcr_content/renditions/cq5dam.web.2400.720.jpeg
+
+Photo-1 : 
+https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/d5e74d762e824fb12ad95a2de0f919d085a40e42_xxl-1.jpg
+
+https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/715c6229ea4a406ca8bee74acae194f61f58228d_xxl-1.jpg
+
+
+Photo-2 : 
+https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/ef753f1ed4cc959a8732bb091e536c3875e24c02_xxl-1.jpg
+
+https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/568c0451b89090029747df99e9ac2dc12a4efcfd_xxl-1.jpg
+
+Photo-3 : 
+https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/c151eafbf5f58c42c42c14194e86984031a541c1_xxl-1.jpg
+
+https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/abe8c0ed8d9d99ae059cd48babc9ece4639ebf70_xxl-1.jpg
+
